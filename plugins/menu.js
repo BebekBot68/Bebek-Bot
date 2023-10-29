@@ -135,8 +135,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
     '': 'Tanpa Kategori'
   }
   if (teks == 'owner') tags = {
-    'owner': 'Owner',
-    'host': 'Host',
+    'owner': 'Owner',Farhan
+    'host': 'Host', Farhan
     'advanced': 'Advanced'
   }
 
